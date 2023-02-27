@@ -4,13 +4,13 @@ function App() {
   return (
     <main className="App">
       <div className="about">
-        <p id="head">სუპერნოვა (Pulsar AI Georgia)</p>
+        <p id="head">ჟიპიტაური, chatGPT-ის ქართულენოვანი ვერსია</p>
         <p>
-          ჩვენ ვართ პირველი ქართული AI კომპანია, ქართული ბიტების შექმნის
+          ჩვენ ვართ პირველი ქართული AI კომპანია სახელად სუპერნოვა (Pulsar AI Georgia), ქართული ბიტების შექმნის
           წარმატებული ისტორიით.
         </p>
         <p>
-          ამჯერად კი გვინდა შემოგთავაზოთ. chatGPT-ის ქართულენოვანი ვერსია,
+          ამჯერად კი გვინდა შემოგთავაზოთ chatGPT-ის ქართულენოვანი ვერსია,
           რომელიც დაფუძნებულია GPT-3 მოდელზე და Google translation API-ზე.
         </p>
         <p>რატომ Google translation API?</p>
